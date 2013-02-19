@@ -1,0 +1,8 @@
+index: 0
+password: your_password
+serial: null
+units: F
+user: your_nest_email
+graphite_server: your_graphite_server
+graphite_port: 2003
+graphite_prefix: nest_metrics
